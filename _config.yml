@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Mohit"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Mohit Singh Tomar"
 description              : &description "personal description"
 url                      : https://mohit2b.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
