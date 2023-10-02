@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mohit Singh Tomar"
-  avatar           : "image/my_img.png"
+  avatar           : "my_img.png"
   bio              : "Machine Learning"
   location         : 
   employer         :
@@ -110,7 +110,7 @@ author:
   steam            :
   tumblr           :
   twitter          : "mohit2b"
-  linkedin         : "https://www.linkedin.com/in/mohit-singh-tomar-b6555313b/"  
+  linkedin         : "mohit-singh-tomar-b6555313b/"  
   vine             :
   weibo            :
   xing             :
