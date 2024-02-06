@@ -13,9 +13,9 @@ author_profile: true
 
 * **Mohit Tomar**\*, Abhisek Tiwari\*, Tulika Saha, Sriparna Saha. Your tone speaks louder than your face! Modality Order Infused Multi-modal Sarcasm Detection. In Proceedings of the 31st ACM International Conference on Multimedia 2023 Oct 26 (pp. 3926-3933). \[[Paper](https://dl.acm.org/doi/10.1145/3581783.3612528)\] \[[Code](https://github.com/mohit2b/MO-Sarcation)\]
 
-## Journal
+<!-- ## Journal
 
-* **Mohit Tomar**\*, Abhisek Tiwari\*, Sriparna Saha. Towards Knowledge-Infused Automated Disease Diagnosis Assistant (Scientific Reports 2024).
+* **Mohit Tomar**\*, Abhisek Tiwari\*, Sriparna Saha. Towards Knowledge-Infused Automated Disease Diagnosis Assistant (Scientific Reports 2024). -->
 
 <!-- ## Under Review
 
