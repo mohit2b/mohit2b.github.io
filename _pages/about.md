@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am an aspiring Machine Learning Researcher. I have research experience working as a Junior Research Fellow in [AI-NLP-ML Lab](https://www.iitp.ac.in/~ai-nlp-ml/) at [IIT Patna](https://www.iitp.ac.in/) where [Dr. Sriparna Saha](https://www.iitp.ac.in/~sriparna/) advised me. I worked on multiple projects such as multi-modal sarcasm identification, disease diagnosis.
+Hi, I am a first year [CSE](https://www.cse.iitb.ac.in/) PhD student at [IIT Bombay](https://www.iitb.ac.in/) where I am advised by Prof. [Soumen Chakrabarti](https://www.cse.iitb.ac.in/~soumen/).
+<!-- Hi, I am an aspiring Machine Learning Researcher.  -->
+I have research experience working as a Junior Research Fellow in [AI-NLP-ML Lab](https://www.iitp.ac.in/~ai-nlp-ml/) at [IIT Patna](https://www.iitp.ac.in/) where [Dr. Sriparna Saha](https://www.iitp.ac.in/~sriparna/) advised me. I worked on multiple projects such as multi-modal sarcasm identification, disease diagnosis.
 <!---(see more in [publications](https://mohit2b.github.io//publications/)) --->
 
 
